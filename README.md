@@ -1,4 +1,8 @@
 
 # Input training data for Darknet
-his repo contains a essentain training data for Recognising Wild animals using YOLO in Darknet, (Only Three) and other config files
+* **Neuralnetwork's pourpose :** recoganize wild animal like Elephant, Tiger, Wildboar
+* **Algorith    :** ![YOLO V3](https://pjreddie.com/darknet/yolo/)
+* **framework   :** ![darknet](https://pjreddie.com/darknet/)
+
+This repo contain all input and output (Neuralnetwork weight file) data for project
 
